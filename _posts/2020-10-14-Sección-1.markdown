@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+date: 2020-10-14
+img: cabin.png
+alt: image-alt
+project-date: Octubre 2020
+description: Esta sección va dedicada al dueño y sus aspiraciones a futuro. Es una persona que hace las cosas con mucho cariño, dedicación y rigurosidad. El negocio empezó con una idea, y poco a poco va evolucionando. Algún día esperaa tener un gran negocio y la confianza de muchas personas.
+---
