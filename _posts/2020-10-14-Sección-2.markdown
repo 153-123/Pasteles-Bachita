@@ -4,6 +4,6 @@ modal-id: 2
 date: 2020-10-14
 img: cake.png
 alt: image-alt
-project-date: Agosto 2020
+project-date: Octubre 2020
 description: Esta sección va dedicada a una breve explicación sobre la experiencia del dueño empezano su negocio. Estuvo metido en varios cursos, aprendiendo con mucha dedicación y empeño. Con el pasar de los años, consiguió la experiencia suficiente, y decidió abrir un pequeño negocio, que poco a poco va creciendo.
 ---
