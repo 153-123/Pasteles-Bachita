@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2020-10-14
+img: submarine.png
+alt: image-alt
+project-date: Octubre 14
+description:  Esta sección va dedicada a los tipos de pasteles con los que contamos:Torta de chocolate mojada, Pastel de manzana, Torta de vainilla.
+---
